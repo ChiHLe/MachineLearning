@@ -1,4 +1,5 @@
 import math
+
 __author__ = 'Chi Le'
 # Naive Bayes Algorithm for document classification
 # Accuracy for given test set: 94.4%
